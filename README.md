@@ -13,6 +13,7 @@
 - 📫 Also, there are scripts about database of ENAHO and ENDES.
 
 
-😄 Pronouns: ...
- Fun fact: ...
+😄 Areas of interest:
+- :: Impact evaluation
+- ;; Microeconomics
 
