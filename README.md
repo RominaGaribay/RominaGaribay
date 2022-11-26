@@ -3,7 +3,7 @@
 ✨ Estudiante de economía ✨
 
 - 🔭 En estos repositorios se encuentran scripts de Python, R y Stata
-- 🌱 con replicaciones de modelos estadísticos y económetricos. 
+- 🌱 con replicaciones de modelos estadísticos y econométricos. 
 - 👯 También scripts sobre manejo de base de datos ENAHO y ENDES.
 
 ✨ I'm an economics student ✨
