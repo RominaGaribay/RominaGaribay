@@ -2,9 +2,9 @@
 
 ✨ Estudiante de economía.  ✨
 
-- 🔭 En estos repositorios se encuentran sripts de Python, R y Stata.
-- 🌱 Con replicaciones de modelos estadísticos y económetricos. 
-- 👯 También sripts básicos de manejo de base de datos.
+- 🔭 En estos repositorios se encuentran sripts de Python, R y Stata
+- 🌱 con replicaciones de modelos estadísticos y económetricos. 
+- 👯 También sripts sobre manejo de base de datos ENAHO y ENDES.
 
 
 🤔 I’m looking for help with ...
