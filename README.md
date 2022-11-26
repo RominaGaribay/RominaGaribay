@@ -2,15 +2,15 @@
 
 ✨ Estudiante de economía ✨
 
-- 🔭 En estos repositorios se encuentran sripts de Python, R y Stata
+- 🔭 En estos repositorios se encuentran scripts de Python, R y Stata
 - 🌱 con replicaciones de modelos estadísticos y económetricos. 
-- 👯 También sripts sobre manejo de base de datos ENAHO y ENDES.
+- 👯 También scripts sobre manejo de base de datos ENAHO y ENDES.
 
-✨ Student of economist  ✨
+✨ I'm an economics student ✨
 
-- 🤔 In this repositories you can loooking for sripts of Python, R and Stata
+- 🤔 Python, R, and Stata scripts are found in these repositories
 - 💬 with replications of stadistics and econometrics models.
-- 📫 Also, sripcts about database of ENAHO and ENDES.
+- 📫 Also, there are scripts about database of ENAHO and ENDES.
 
 
 😄 Pronouns: ...
