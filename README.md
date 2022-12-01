@@ -14,6 +14,6 @@
 
 
 😄 Areas of interest:
-- :: Impact evaluation
-- ;; Microeconomics
+- Impact evaluation
+- Microeconomics
 
