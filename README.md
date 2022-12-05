@@ -17,9 +17,3 @@
 - Impact evaluation
 - Microeconomics
 
-- 🤔 Python, R, and Stata scripts are found in these repositories
-- 💬 with replications of stadistics and econometrics models.
-- 📫 Also, there are scripts about database of ENAHO and ENDES.
-- - 🤔 Python, R, and Stata scripts are found in these repositories
-- 💬 with replications of stadistics and econometrics models.
-- 📫 Also, there are scripts about database of ENAHO and ENDES.
