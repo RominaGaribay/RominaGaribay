@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Romina 
+### Hi there 👋 I'm Romina Garibay
 
 ✨ Estudiante de economía ✨
 
