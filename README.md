@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Romina Garibay
 
-✨ Estudiante de economía ✨
+✨ Soy estudiante de economía ✨
 
 - 🔭 En estos repositorios se encuentran scripts de Python, R y Stata
 - 🌱 con replicaciones de modelos estadísticos y econométricos. 
