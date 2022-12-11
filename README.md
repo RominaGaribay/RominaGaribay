@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Romina Garibay
 
-✨ Soy estudiante de economía ✨
+✨ Estudiante de economía ✨
 
 - 🔭 En estos repositorios se encuentran scripts de Python, R y Stata
 - 🌱 con replicaciones de modelos estadísticos y econométricos. 
@@ -12,8 +12,9 @@
 - 💬 with replications of stadistics and econometrics models.
 - 📫 Also, there are scripts about database of ENAHO and ENDES.
 
-
 😄 Areas of interest:
 - Impact evaluation
 - Microeconomics
 
+🗣️ Get in touch
+- Linkedin: www.linkedin.com/in/rominagaribayleon
