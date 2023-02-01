@@ -14,7 +14,7 @@
 
 😄 Areas of interest:
 - Impact evaluation
-- Microeconomics
+- Macroeconomics
 
 🗣️ Get in touch
 - Linkedin: www.linkedin.com/in/rominagaribayleon
