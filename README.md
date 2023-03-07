@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Romina Garibay ✨✨
 
 - 🤔 Python, R, and Stata scripts are found in these repositories
-- 💬 with replications of stadistics and econometrics models.
+- 💬 with replications of econometrics models.
 - 📫 Also, there are scripts about database of ENAHO and ENDES.
 
 😄 Areas of interest:
